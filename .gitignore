@@ -3,3 +3,6 @@
 ################################################################################
 
 /MyWebAPI/MyWebAPI/bin/Debug/net5.0
+/MyWebAPI/MyWebAPI/obj
+/MyWebAPI/MyWebAPI/appsettings.json
+/MyWebAPI/MyWebAPI/appsettings.Development.json
